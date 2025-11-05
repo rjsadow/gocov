@@ -1,4 +1,4 @@
-module github.com/axw/gocov
+module github.com/rjsadow/gocov
 
 go 1.25.0
 
